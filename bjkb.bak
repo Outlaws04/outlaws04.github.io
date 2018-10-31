@@ -1,0 +1,265 @@
+<!doctype html>
+<html lang="en">
+ <head>
+	<title>
+	   bjkb
+	</title>
+	<meta charset="UTF-8">
+	<meta name="Generator" content="EditPlus®">
+	<meta name="Author" content="">
+	<meta name="Keywords" content="班级网站">
+	<meta name="Description" content="长江职业学院计算机网络1603班级网站">
+	<style type="text/css">
+		*		{
+					padding:0px;
+					margin:0px;
+					list-style:none;
+				}
+		#in    {
+					height:20px;
+					width:1200px;
+					background:#5B00AE;
+					margin:5px auto ;
+					margin-top:0px;
+					
+				}
+
+		#top    {
+					width:auto;
+					height:90px;
+					background-color:white;
+					margin: 0 auto;
+					border-bottom:3px solid #ccc; 
+					padding:0px;
+					background:#FAF4FF;
+
+				}
+		body	{
+					font-family:"微软雅黑","宋体";
+					font-size:18px;
+					
+				}
+		
+		#nav	{
+					height:70px;
+					width:1005px;
+					/*border:1px solid red;*/
+					background:white;
+					margin:5px auto 0px;
+					
+				}
+		
+
+		#area	{
+					height:300px;
+					width:auto;
+					
+					margin:5px auto 0px;
+					background:#FAF4FF;
+				}
+		#foot	{
+					height:96px;
+					width:auto;
+					font-family:"微软雅黑","宋体";
+					font-size:14px;
+					color:#ccc;
+					margin:5px auto 0px;
+					background:#28004d;
+					
+				}
+		
+		#nav ul{ 
+					list-style:none;
+					color:red;
+					font-size:25px; 
+					padding:0px; 
+					list-style-type:none;  
+					text-align:center;
+					
+				}  
+	#nav ul li
+				{ 
+					float:left;
+					line-height:40px;
+					text-align:center;
+					padding:0px; 
+					list-style-type:none;
+					position:relative;
+					width:165px;
+				}  
+	#nav ul li a
+				{ 
+					text-decoration:none;
+					color:#000;
+					width:150px;
+					display:block;
+					padding:0px 10px;
+					text-align:center;
+					line-height:40px;
+				}  
+#nav ul li a:hover
+				{
+					color:white; 
+					background:#4b0091;
+					line-height:70px;
+				}  
+#nav ul li ul  { 
+					position:absolute;
+					display:none;
+					line-height:40px;
+				}  
+#nav ul li ul li{ 
+					float:none;
+					line-height:30px;
+					text-align:center;
+					line-height:40px:
+				}  
+#nav ul li ul li a
+				{
+					width:100%;
+					line-height:70px;
+					background:#4b0091;
+					color:white;
+					float:right;
+				}  
+#nav ul li ul li a:hover
+				{
+					background-color: #28004d;
+					color:white;
+					line-height:70px;
+					text-align:right;
+				}  
+#nav ul li:hover ul
+				{ display:block ;}  
+		
+#foot p			{  
+					text-align:center;
+				}
+	table		{	
+					border:1px solid black;
+					width:800px;
+					height:800px;
+					text-align:center;
+					vertical-align:middle;
+					margin-left:400px;
+				}
+	table caption{
+					color:black;
+					line-height:30px;
+					text-align:center;
+					vertical-align:middle;
+				}
+				/*table tr{text-align:left;
+					vertical-align:middle;
+						}*/
+	table  th,td{
+					border:1px solid black;		
+				}
+				
+					
+	   table td{
+					background:white;
+				}
+		
+</style>
+ 
+ </head>
+ <body style="width:auto; height:auto; background:url(.jpg) ;">
+	
+   <div id="top" >
+			<div id="in" >
+	
+			</div>
+   </div>
+   <div id="nav" align="center" style="position:relative;z-index:4;" >
+<ul>  
+        <li><a href="#">首页</a></li>  
+        <li><a href="bjkb.html" target="_blank">我的班级</a> 
+		
+            <ul>  
+                <li><a href="">班级新闻</a></li>  
+                <li><a href="#">班级课表</a></li>  
+                <li><a href="#">班级活动</a></li>  
+                 
+            </ul>          
+        </li>  
+        <li><a href="#">班级成员</a>
+			<ul>  
+                <li><a href="#">任课老师</a></li>  
+                <li><a href="#">班级成员</a></li>  
+                <li><a href="#">各位班委</a></li>  
+                 
+            </ul>      
+		</li>  
+        <li><a href="#">班级相册</a>
+			<ul>  
+                <li><a href="#">活动相册</a></li>  
+                <li><a href="#">班会相册</a></li>  
+                <li><a href="#">毕业相册</a></li>  
+                 
+            </ul>      
+		</li>  
+		<li><a href="#">班级动态</a>
+			<ul>  
+                <li><a href="#">每日新闻</a></li>  
+                <li><a href="#">课程调动</a></li>  
+                <li><a href="#">留言簿</a></li>  
+                 
+            </ul>      
+		</li> 
+		 <li><a href="#">班级日志</a></li> 
+    </ul>  
+    
+   </div>
+
+
+   <table>
+   <caption>1603班班级课表</caption>
+   <tr>
+	<th></th>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+   </tr>
+   <tr>
+	<th></th>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+   </tr>
+   <tr>
+	<th></th>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+   </tr>
+   <tr>
+	<th></th>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+   </tr>
+   <tr>
+	<th></th>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+   </tr>
+   </table>
+  
+  <div id="area" >
+	
+  </div>
+  <div id="foot" >
+	</br></br>
+	<p>Copyright@2016-2020　长江职业学院旅游信息学院计算机网络技术教研室　All Right Reserved 地址：湖北省武汉市江夏区流芳园路长江职业学院</p>
+	</br>
+	<p><span style="color:grey">地址：武汉市洪山区雄楚大街918号长江职业学院1014室　　　　邮编：430074　　　电话：(027)87170259　13971168360　　　　信箱:573147122@qq.com </span>  <span style="color:grey">制作人：向洪　　 林梦恒　　陈亚飞 　　李玉骄</span></p>
+  </div>
+ </body>
+</html>

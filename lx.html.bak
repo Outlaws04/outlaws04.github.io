@@ -1,0 +1,230 @@
+<!doctype html>
+<html lang="en">
+ <head>
+	<title>
+	   bjkb
+	</title>
+	<meta charset="UTF-8">
+	<meta name="Generator" content="EditPlus®">
+	<meta name="Author" content="">
+	<meta name="Keywords" content="班级网站">
+	<meta name="Description" content="长江职业学院计算机网络1603班级网站">
+	<style type="text/css">
+		*		{
+					padding:0px;
+					margin:0px;
+					list-style:none;
+				}
+		#in    {
+					height:20px;
+					width:1110px;
+					background:#5B00AE;
+					margin:auto ;
+					margin-top:0px;
+					
+				}
+#in-1    {
+					height:150px;
+					width:auto;
+					float:right;
+					
+					margin-right:0px;
+					margin-top:0px;
+					
+				}
+
+
+		#top    {
+					width:auto;
+					height:150px;
+					background-color:white;
+					margin: 0 auto;
+					border-bottom:3px solid purple; 
+					padding:0px;
+					background:
+
+				}
+		body	{
+					font-family:"微软雅黑","宋体";
+					font-size:18px;
+					
+				}
+		
+		#nav	{
+					height:70px;
+					width:1005px;
+					/*border:1px solid red;*/
+					background:white;
+					margin:5px auto 0px;
+					
+				}
+		
+
+		#area	{
+					height:300px;
+					width:auto;
+					
+					margin:5px auto 0px;
+					background:#FAF4FF;
+				}
+		#foot	{
+					height:96px;
+					width:auto;
+					font-family:"微软雅黑","宋体";
+					font-size:14px;
+					color:#ccc;
+					margin:5px auto 0px;
+					background:#28004d;
+					
+				}
+		
+		#nav ul{ 
+					list-style:none;
+					color:red;
+					font-size:25px; 
+					padding:0px; 
+					list-style-type:none;  
+					text-align:center;
+					
+				}  
+	#nav ul li
+				{ 
+					float:left;
+					line-height:40px;
+					text-align:center;
+					padding:0px; 
+					list-style-type:none;
+					position:relative;
+					width:165px;
+				}  
+	#nav ul li a
+				{ 
+					text-decoration:none;
+					color:#000;
+					width:150px;
+					display:block;
+					padding:0px 10px;
+					text-align:center;
+					line-height:40px;
+				}  
+#nav ul li a:hover
+				{
+					color:white; 
+					background:#4b0091;
+					line-height:70px;
+				}  
+#nav ul li ul  { 
+					position:absolute;
+					display:none;
+					line-height:40px;
+				}  
+#nav ul li ul li{ 
+					float:none;
+					line-height:30px;
+					text-align:center;
+					line-height:40px:
+				}  
+#nav ul li ul li a
+				{
+					width:100%;
+					line-height:70px;
+					background:#4b0091;
+					color:white;
+					float:right;
+				}  
+#nav ul li ul li a:hover
+				{
+					background-color: #28004d;
+					color:white;
+					line-height:70px;
+					text-align:right;
+				}  
+#nav ul li:hover ul
+				{ display:block ;}  
+		
+#foot p			{  
+					text-align:center;
+				}
+	table		{	
+					border:1px solid black;
+					width:900px;
+					height:697px;
+					text-align:center;
+					vertical-align:middle;
+					margin-left:30px;
+					border-collapse:collapse;
+				}
+	table caption{
+					color:black;
+					line-height:30px;
+					text-align:center;
+					vertical-align:middle;
+				}
+				/*table tr{text-align:left;
+					vertical-align:middle;
+						}*/
+	table  th,td{
+					border:1px solid black;	
+					width:140; height:70;
+				}
+				
+					
+	    td{
+					background:white;
+width:140; height:70;
+					
+				}
+				#x{width:700; height:700;
+				border:1px solid black;}
+		
+</style>
+ 
+ </head>
+ <body style="width:auto; height:auto; background:url(.jpg) ;">
+	
+   <div id="top" >
+   
+   <div id="in-1" style="position:relative;z-index:2;">
+	<img src="images/14497314956e77c2b7.jpg" width="auto" height="150" border="0" alt="" >
+   </div>
+			<div id="in" style="position:relative;z-index:4;">
+	
+			</div>
+			
+			<img src="images/未标题-5.jpg" width="1000" height="100" border="0" alt="" >
+   </div>
+   <div id="x" >
+	 
+ <p>由国家发改委、国家工业和信息化部、国家网信办和贵州省人民政府联合主办的2017数博会（2017中国国际大数据产业博览会) 于5月25日在贵阳开幕。作为全球无线通信技术的“老大哥”，高通已经是这一国家级大数据会议“老面孔”，连续第三年亮相。在“人工智能高峰对话”环节，高通全球总裁德里克·阿博利（Derek Aberle）解析了未来5G网络下的物联网、云计算、人工智能形态，并表示：“人工智能正步入终端设备，终端侧的人工智能可以对云端智能进行补充。”</p>
+
+<p>作为参展商之一，高通展台位于贵阳国际会议展览中心1号展馆1008A，毗邻BAT展台，标志性的“Qualcomm”被一身白色涂装映衬得十分醒目，展台分为5G、移动连接体验（骁龙移动平台）、万物互联（物联网、车联网）等区域，基本涵盖了高通最新的技术、产品组合和解决方案，以及高通的中国合作伙伴成果。
+</p>
+
+<p>从“芯”武装物联网，助推数字化行业变革</p>
+
+<p>高通也将无线连接和移动计算等技术扩展至物联网领域，提供了超过25款基于物联网的平台解决方案，为可穿戴智能设备、智慧家庭、智慧城市、无人机、机器人以及车联网等细分物联网应用场景提供更多可能，助推全行业的发展和变革。</p>
+
+<p>虚拟现实再次成为高通展区中的一大亮点。最新搭载骁龙835移动平台的VR设备在视觉、听觉和交互方面都实现了升级，同时与包括暴风影音、爱奇艺在内的中国厂商合作发布的基于骁龙平台的VR一体机。在智慧城市领域，高通展示的多种创新应用和城市“连接”；在智慧车联网领域，高通也展示了Dashboard解决方案；此外还有无人机和应用机器人现场秀。</p>
+
+<p>另外，高通还将一辆“特别”的摩拜单车搬到了展区，之所以特别，是因为这款共享单车的智能车锁搭载了一颗高通面向物联网的调制解调器。就在几天前的5月23日，高通与中国移动研究院及摩拜单车展开合作，启动中国首个eMTC/NB-IoT/GSM（LTE Cat M1/NB1和E-GPRS）多模外场测试，可以利用中国移动的2G/4G多模网络，把高通面向物联网应用的MDM9206全球多模LTE IoT调制解调器应用在摩拜单车的智能车锁上，摩拜单车用户因此能够更加精准地识别可用单车、加快智能锁开锁速度，并对单车状态持续监测、实时管理。</p>
+
+
+
+<p>此次高通携手合作伙伴所展出的领先技术与产品，再次展现了高通为中国运营商、终端厂商和价值链上合作伙伴的创新发展，为中国无线生态、半导体生态和物联网生态的健康发展，以及中国数字经济的蓬勃发展持续注入更多能量和更大价值，进一步履行“植根中国，分享智慧，成就创新”的承诺。
+</p>
+<p>高通进入中国20余载，始终致力于将全球创新资源带到中国，并将重要的研发力量投资于中国。随着中国“一带一路”、“中国制造2025”、“大众创业 万众创新”等战略的部署实施，高通也将自身发展与中国的创新发展战略紧密结合，通过高精尖的技术和服务，与本地创新合作伙伴携手实现共赢。
+</p>
+<p>值得一提的是，本届数博会以“数字经济引领新增长”为主题，来自全球政、产、学、研、用等领域的专家学者和各界人士齐聚盛会，结合产业发展趋势，围绕区块链、数据开放与共享、数据安全、人工智能、5G等热点议题展开前瞻性探讨。</p>
+
+   </div>
+  <div id="area" >
+	
+  </div>
+  <div id="foot" >
+	</br></br>
+	<p>Copyright@2016-2020　长江职业学院旅游信息学院计算机网络技术教研室　All Right Reserved 地址：湖北省武汉市江夏区流芳园路长江职业学院</p>
+	</br>
+	<p><span style="color:grey">地址：武汉市洪山区雄楚大街918号长江职业学院1014室　　　　邮编：430074　　　电话：(027)87170259　13971168360　　　　信箱:573147122@qq.com </span>  <span style="color:grey">制作人：向洪　　 林梦恒　　陈亚飞 　　李玉骄</span></p>
+  </div>
+ </body>
+</html>

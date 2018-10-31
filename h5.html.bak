@@ -1,0 +1,267 @@
+<!doctype html>
+<html lang="en">
+ <head>
+	<title>
+	   bjkb
+	</title>
+	<meta charset="UTF-8">
+	<meta name="Generator" content="EditPlus®">
+	<meta name="Author" content="">
+	<meta name="Keywords" content="班级网站">
+	<meta name="Description" content="长江职业学院计算机网络1603班级网站">
+	<style type="text/css">
+		*		{
+					padding:0px;
+					margin:0px;
+					list-style:none;
+				}
+		#in    {
+					height:20px;
+					width:1110px;
+					background:#5B00AE;
+					margin:auto ;
+					margin-top:0px;
+					
+				}
+#in-1    {
+					height:150px;
+					width:auto;
+					float:right;
+					
+					margin-right:0px;
+					margin-top:0px;
+					
+				}
+
+
+		#top    {
+					width:auto;
+					height:150px;
+					background-color:white;
+					margin: 0 auto;
+					border-bottom:3px solid purple; 
+					padding:0px;
+					background:
+
+				}
+		body	{
+					font-family:"微软雅黑","宋体";
+					font-size:18px;
+					
+				}
+		
+		#nav	{
+					height:70px;
+					width:1005px;
+					/*border:1px solid red;*/
+					background:white;
+					margin:5px auto 0px;
+					
+				}
+		
+
+		#area	{
+					height:300px;
+					width:auto;
+					
+					margin:5px auto 0px;
+					background:#FAF4FF;
+				}
+		#foot	{
+					height:96px;
+					width:auto;
+					font-family:"微软雅黑","宋体";
+					font-size:14px;
+					color:#ccc;
+					margin:5px auto 0px;
+					background:#28004d;
+					
+				}
+		
+		#nav ul{ 
+					list-style:none;
+					color:red;
+					font-size:25px; 
+					padding:0px; 
+					list-style-type:none;  
+					text-align:center;
+					
+				}  
+	#nav ul li
+				{ 
+					float:left;
+					line-height:40px;
+					text-align:center;
+					padding:0px; 
+					list-style-type:none;
+					position:relative;
+					width:165px;
+				}  
+	#nav ul li a
+				{ 
+					text-decoration:none;
+					color:#000;
+					width:150px;
+					display:block;
+					padding:0px 10px;
+					text-align:center;
+					line-height:40px;
+				}  
+#nav ul li a:hover
+				{
+					color:white; 
+					background:#4b0091;
+					line-height:70px;
+				}  
+#nav ul li ul  { 
+					position:absolute;
+					display:none;
+					line-height:40px;
+				}  
+#nav ul li ul li{ 
+					float:none;
+					line-height:30px;
+					text-align:center;
+					line-height:40px:
+				}  
+#nav ul li ul li a
+				{
+					width:100%;
+					line-height:70px;
+					background:#4b0091;
+					color:white;
+					float:right;
+				}  
+#nav ul li ul li a:hover
+				{
+					background-color: #28004d;
+					color:white;
+					line-height:70px;
+					text-align:right;
+				}  
+#nav ul li:hover ul
+				{ display:block ;}  
+		
+#foot p			{  
+					text-align:center;
+				}
+	table		{	
+					border:1px solid black;
+					width:900px;
+					height:697px;
+					text-align:center;
+					vertical-align:middle;
+					margin-left:30px;
+					border-collapse:collapse;
+				}
+	table caption{
+					color:black;
+					line-height:30px;
+					text-align:center;
+					vertical-align:middle;
+				}
+				/*table tr{text-align:left;
+					vertical-align:middle;
+						}*/
+	table  th,td{
+					border:1px solid black;	
+					width:140; height:70;
+				}
+				
+					
+	    td{
+					background:white;
+width:140; height:70;
+					
+				}
+				#x{width:700; height:700;
+				border:1px solid black;}
+		
+</style>
+ 
+ </head>
+ <body style="width:auto; height:auto; background:url(.jpg) ;">
+	
+   <div id="top" >
+   
+   <div id="in-1" style="position:relative;z-index:2;">
+	<img src="images/14497314956e77c2b7.jpg" width="auto" height="150" border="0" alt="" >
+   </div>
+			<div id="in" style="position:relative;z-index:4;">
+	
+			</div>
+			
+			<img src="images/未标题-5.jpg" width="1000" height="100" border="0" alt="" >
+   </div>
+   <div id="x" >
+	 
+<p>作为下一代Web技术的代表，HTML5概念在近些年尤其火热。HTML5已成为2012年各大互联网活动的标配话题。天使投资人、移动世纪会秘书长丁辰灵认为，HTML5技术之所以备受追捧，与它的后天优势不无关系。据了解，HTML5受到垂青最直接的原因就是其跨平台性，除此之外，它不仅仅可以用于表示Web内容，还可能将Web带入一个广阔的生态平台。
+</p>
+ 
+
+<p>HTML5为什么会火起来？</p>
+
+
+<p>易观国际高级分析师闫小佳在接受记者采访时表示，简单来说，HTML5技术降低了对适配终端和应用的技术门槛，使得跨平台跨网络的低成本通用应用成为可能。
+</p>
+ 
+
+<p>欧朋首席标准官、万维网联盟（W3C）HTML5中文小组主席谢子斌对记者表示，HTML5是W3C公开推出的互联网行业最新版本的Web标准，“作为一项技术，ＨＴＭＬ５是最符合互联网精神的”。
+
+ </p>
+
+<p>C优视联合创始人、技术总裁梁捷在接受记者采访时表示，使用HTML5技术的Web App是毋庸置疑的未来。使用HTML5技术后，Web App的核心优势有两个，一是开发模式的再次进化（对复杂性的封装），二是具有卓越的互联互通特性。</p>
+
+ 
+
+<p>这也是业内人士的共识。通过HTML5技术，网页将变得更丰富、也能实现更多功能，开发者只需要编写一个统一的网页，适配的工作可以交给浏览器去完成。其丰富的标签体系，类似于内置了很多快捷键，将取代那些完成简单任务的插件，可以大大降低应用开发的技术门槛。</p>
+
+ 
+
+<p>对于用户而言，Web App完美地实现了即时更新，再也不需要管理像山一样多的App应用程序，一个个重新下载它们并更新，有任何新的更新和技术应用，只需要打开手机浏览器便能实现。</p>
+
+ 
+
+<p>同时，HTML5的开放性使其不会被任何一家企业垄断，有利于促进整个行业的良性发展。但是无论哪个开发团队的资源都是有限的，而HTML5跨平台功能非常强大，借助HTML5的技术，手机浏览器从流量入口变成平台，这一平台所提供的大空间吸引了众多开发者前来“掘金”。</p>
+
+ 
+
+<p>解决碎片化  前景美好</p>
+
+
+<p>随着HTML5越来越受到开发者的喜爱，浏览器的碎片化问题开始显现。一项有4000多位HTML5开发者参与的调查显示，71%的开发者关心浏览器的碎片化问题，有15%的开发者对此问题非常关心，只有5%的开发者表示不关心。</p>
+
+ 
+
+<p>而HTML5则是未来有可能完全解决这个问题的关键所在。谢子斌表示：“最初HTML5想解决的就是兼容性问题。那个时候提出的概念非常简单，就是怎么在这么多的浏览器和这么多的平台上显示一个可以兼容不同浏览器的网络表单。”而现在，经过多年发展，HTML5实现的功能越来越多，人们对它也越来越期待。根据W3C的规划，理想状态是最终成型的HTML5文本将成为互联网行业都遵循的标准。届时，浏览器、操作系统等相关厂商都会对其进行统一支持。</p>
+
+ 
+
+<p>梁捷表示，很多人问这个问题其实是对移动开发工具没有足够的信心。他介绍：“UC已经发布了UC浏览器开发者版，可以帮助开发者更好地进行Web App的研发和调试，从而在一定程度上解决浏览器碎片化的问题。”</p>
+
+ 
+
+<p>谢子斌对HTML5发展的前景十分看好。他表示，首先，HTML5是W3C公开的网络标准，每一个公开的标准都可以根据W3C的资料库找寻根源。其次，HTML5带来的Web App能够解决目前移动互联网上存在的诸多问题，比如开发者针对不同操作系统去开发应用的成本很高，本地应用存在的局限性如安装包大、需要手动安装更新等。最后，HTML5得到了产业链的大力支持。据了解，目前各大主流浏览器包括谷歌浏览器、微软IE以及国内的360浏览器，都已经开始重视对HTML5的支持，爱奇艺则推出了基于HTML5技术的视频行业首个Web App化视频观看站点，使用户无需安装任何应用程序，登录特定的网站即可在手机网页端享受高清流畅的客户端式观影体验。</p>
+
+ 
+
+<p>不过，谢子斌也承认，虽然HTML5在应用开发上、平台上有很大的优势，但是目前国内对HTML5有点过度追捧。HTML5对于移动设备上的普通用户的价值有待验证，在用户体验方面也还不是非常成熟。HTML5在移动设备上的进一步发展需要芯片厂商、0S厂商、浏览器厂商和Web应用开发商的共同努力。</p>
+
+ 
+
+
+
+
+
+   </div>
+  <div id="area" >
+	
+  </div>
+  <div id="foot" >
+	</br></br>
+	<p>Copyright@2016-2020　长江职业学院旅游信息学院计算机网络技术教研室　All Right Reserved 地址：湖北省武汉市江夏区流芳园路长江职业学院</p>
+	</br>
+	<p><span style="color:grey">地址：武汉市洪山区雄楚大街918号长江职业学院1014室　　　　邮编：430074　　　电话：(027)87170259　13971168360　　　　信箱:573147122@qq.com </span>  <span style="color:grey">制作人：向洪　　 林梦恒　　陈亚飞 　　李玉骄</span></p>
+  </div>
+ </body>
+</html>

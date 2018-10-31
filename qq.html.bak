@@ -1,0 +1,222 @@
+<!doctype html>
+<html lang="en">
+ <head>
+	<title>
+	   bjkb
+	</title>
+	<meta charset="UTF-8">
+	<meta name="Generator" content="EditPlus®">
+	<meta name="Author" content="">
+	<meta name="Keywords" content="班级网站">
+	<meta name="Description" content="长江职业学院计算机网络1603班级网站">
+	<style type="text/css">
+		*		{
+					padding:0px;
+					margin:0px;
+					list-style:none;
+				}
+		#in    {
+					height:20px;
+					width:1110px;
+					background:#5B00AE;
+					margin:auto ;
+					margin-top:0px;
+					
+				}
+#in-1    {
+					height:150px;
+					width:auto;
+					float:right;
+					
+					margin-right:0px;
+					margin-top:0px;
+					
+				}
+
+
+		#top    {
+					width:auto;
+					height:150px;
+					background-color:white;
+					margin: 0 auto;
+					border-bottom:3px solid purple; 
+					padding:0px;
+					background:
+
+				}
+		body	{
+					font-family:"微软雅黑","宋体";
+					font-size:18px;
+					
+				}
+		
+		#nav	{
+					height:70px;
+					width:1005px;
+					/*border:1px solid red;*/
+					background:white;
+					margin:5px auto 0px;
+					
+				}
+		
+
+		#area	{
+					height:300px;
+					width:auto;
+					
+					margin:5px auto 0px;
+					background:#FAF4FF;
+				}
+		#foot	{
+					height:96px;
+					width:auto;
+					font-family:"微软雅黑","宋体";
+					font-size:14px;
+					color:#ccc;
+					margin:5px auto 0px;
+					background:#28004d;
+					
+				}
+		
+		#nav ul{ 
+					list-style:none;
+					color:red;
+					font-size:25px; 
+					padding:0px; 
+					list-style-type:none;  
+					text-align:center;
+					
+				}  
+	#nav ul li
+				{ 
+					float:left;
+					line-height:40px;
+					text-align:center;
+					padding:0px; 
+					list-style-type:none;
+					position:relative;
+					width:165px;
+				}  
+	#nav ul li a
+				{ 
+					text-decoration:none;
+					color:#000;
+					width:150px;
+					display:block;
+					padding:0px 10px;
+					text-align:center;
+					line-height:40px;
+				}  
+#nav ul li a:hover
+				{
+					color:white; 
+					background:#4b0091;
+					line-height:70px;
+				}  
+#nav ul li ul  { 
+					position:absolute;
+					display:none;
+					line-height:40px;
+				}  
+#nav ul li ul li{ 
+					float:none;
+					line-height:30px;
+					text-align:center;
+					line-height:40px:
+				}  
+#nav ul li ul li a
+				{
+					width:100%;
+					line-height:70px;
+					background:#4b0091;
+					color:white;
+					float:right;
+				}  
+#nav ul li ul li a:hover
+				{
+					background-color: #28004d;
+					color:white;
+					line-height:70px;
+					text-align:right;
+				}  
+#nav ul li:hover ul
+				{ display:block ;}  
+		
+#foot p			{  
+					text-align:center;
+				}
+	table		{	
+					border:1px solid black;
+					width:900px;
+					height:697px;
+					text-align:center;
+					vertical-align:middle;
+					margin-left:30px;
+					border-collapse:collapse;
+				}
+	table caption{
+					color:black;
+					line-height:30px;
+					text-align:center;
+					vertical-align:middle;
+				}
+				/*table tr{text-align:left;
+					vertical-align:middle;
+						}*/
+	table  th,td{
+					border:1px solid black;	
+					width:140; height:70;
+				}
+				
+					
+	    td{
+					background:white;
+width:140; height:70;
+					
+				}
+				#x{width:700; height:700;
+				border:1px solid black;}
+		
+</style>
+ 
+ </head>
+ <body style="width:auto; height:auto; background:url(.jpg) ;">
+	
+   <div id="top" >
+   
+   <div id="in-1" style="position:relative;z-index:2;">
+	<img src="images/14497314956e77c2b7.jpg" width="auto" height="150" border="0" alt="" >
+   </div>
+			<div id="in" style="position:relative;z-index:4;">
+	
+			</div>
+			
+			<img src="images/未标题-5.jpg" width="1000" height="100" border="0" alt="" >
+   </div>
+   <div id="x" >
+	
+
+<p>北京时间4月21日消息，据《福布斯》网站报道，美国哥伦比亚大学的一个安全小组最近发现了一种新型、隐蔽的电脑攻击模式，黑客利用这一攻击模式，可对全球八成PC实施监控。</p>
+
+<p>据悉，利用该漏洞，黑客可在不被检测到的情况下对PC、网络应用或者云端虚拟机实施监控。任何使用英特尔最新处理器和HTML5网络浏览器的PC均为这一攻击的潜在对象，这意味着全球80%的PC面临着这一攻击风险。
+</p>
+<p>该小组研究人员表示，黑客使用这一被称为“沙箱间谍”的安全漏洞对PC发动攻击，几乎不需要花费时间和金钱，不需要安装什么东西，而且勿需进入硬件系统。黑客所要做的，是将受害用户引诱到一个由攻击者控制的非授信内容页面上。</p>
+
+<p>黑客一旦得手，内置含有虚假内容的软件将启动一个程序，可以通过操纵受害人PC缓存数据的进出，从而对系统实施监控。
+</p>
+<p>PC时代我们通过网站来获取服务，我们要先找到这个网站，所以搜索框在当时特别重要。但是在智能手机时代，我们要获取服务的话，更多的是跟线下有关，就目前手机技术的实现来说，可能通过扫二维码是最简易的一种方式，跟周边产生联系，并且获取服务。</p>
+
+
+
+   </div>
+  <div id="area" >
+	
+  </div>
+  <div id="foot" >
+	</br></br>
+	<p>Copyright@2016-2020　长江职业学院旅游信息学院计算机网络技术教研室　All Right Reserved 地址：湖北省武汉市江夏区流芳园路长江职业学院</p>
+	</br>
+	<p><span style="color:grey">地址：武汉市洪山区雄楚大街918号长江职业学院1014室　　　　邮编：430074　　　电话：(027)87170259　13971168360　　　　信箱:573147122@qq.com </span>  <span style="color:grey">制作人：向洪　　 林梦恒　　陈亚飞 　　李玉骄</span></p>
+  </div>
+ </body>
+</html>
